@@ -22,7 +22,7 @@
 <br>
 
 > [!NOTE]
-> Nuestro proyecto busca mejorar la calidad de vida de otras especies. Invitamos a todos a colaborar de forma altruista para alcanzar este objetivo.
+> Nuestro proyecto busca mejorar la calidad de vida de otras especies. Invitamos a todos a colaborar de forma altruista para alcanzar este objetivo. 
 
 ## Tecnologías Utilizadas
 Este proyecto ha sido desarrollado utilizando un conjunto de tecnologías modernas para garantizar su escalabilidad, eficiencia y una experiencia de usuario optimizada. A continuación, se listan las principales herramientas y tecnologías empleadas:
@@ -305,4 +305,3 @@ Puedes encontrar la comunidad de **Discord** para aquellos que deseen contribuir
 
 > [!IMPORTANT]
 >Si eres desarrollador y compartes nuestra pasión por los animales y la tecnología, ¡te invitamos a colaborar! Tu código puede ayudar a mejorar la experiencia de usuario y a expandir nuestro alcance. A cambio, tu nombre se incluirá en la lista de contribuidores del proyecto.
-a
