@@ -305,3 +305,4 @@ Puedes encontrar la comunidad de **Discord** para aquellos que deseen contribuir
 
 > [!IMPORTANT]
 >Si eres desarrollador y compartes nuestra pasión por los animales y la tecnología, ¡te invitamos a colaborar! Tu código puede ayudar a mejorar la experiencia de usuario y a expandir nuestro alcance. A cambio, tu nombre se incluirá en la lista de contribuidores del proyecto.
+a
